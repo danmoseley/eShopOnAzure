@@ -53,8 +53,8 @@
     <PackageVersion Include="AspNetCore.HealthChecks.UI.InMemory.Storage" Version="7.0.0"/>
     <PackageVersion Include="AspNetCore.HealthChecks.Uris" Version="7.0.0"/>
     <!-- AI -->
-    <PackageVersion Include="Azure.AI.OpenAI" Version="1.0.0-beta.12"/>
-    <PackageVersion Include="Microsoft.SemanticKernel" Version="1.0.1"/>
+    <PackageVersion Include="Azure.AI.OpenAI" Version="1.0.0-beta.14"/>
+    <PackageVersion Include="Microsoft.SemanticKernel" Version="1.6.3"/>
     <!-- Open Telemetry -->
     <PackageVersion Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" Version="1.7.0"/>
     <PackageVersion Include="OpenTelemetry.Extensions.Hosting" Version="1.7.0"/>
